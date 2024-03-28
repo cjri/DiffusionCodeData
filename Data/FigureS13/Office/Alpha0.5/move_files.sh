@@ -1,0 +1,9 @@
+mv Bottlenecks_Cough_Absorbing_phi1e-05_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.00001_vm1.dat.count
+mv Bottlenecks_Cough_Absorbing_phi1e-06_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.000001_vm1.dat.count
+mv Bottlenecks_Cough_Absorbing_phi1e-07_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.0000001_vm1.dat.count
+mv Bottlenecks_Cough_Absorbing_phi2e-05_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.00002_vm1.dat.count
+mv Bottlenecks_Cough_Absorbing_phi2e-06_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.000002_vm1.dat.count
+mv Bottlenecks_Cough_Absorbing_phi2e-07_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.0000002_vm1.dat.count
+mv Bottlenecks_Cough_Absorbing_phi5e-05_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.00005_vm1.dat.count
+mv Bottlenecks_Cough_Absorbing_phi5e-06_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.000005_vm1.dat.count
+mv Bottlenecks_Cough_Absorbing_phi5e-07_vm1.dat.count  Bottlenecks_Cough_Absorbing_phi0.0000005_vm1.dat.count
