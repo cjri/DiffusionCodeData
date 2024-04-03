@@ -1,0 +1,2 @@
+Total exposures describe the total volume of physical exposure for each individual
+Individual exposures describe the relative levels of exposure in terms of different particle sizes, measured by radius, in intervals of 1um.
